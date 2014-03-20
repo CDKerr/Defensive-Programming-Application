@@ -18,7 +18,7 @@ import org.junit.Test;
 import carRental.*;
 
 /**
- * @author b2038092 christopherkerr; c.kerr@ncl.ac.uk
+ * @author christopherkerr;
  * @version 1.0
  */
 public class CarRentalTest {

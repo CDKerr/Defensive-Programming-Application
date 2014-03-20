@@ -12,7 +12,7 @@ import carRental.*;
 /**
  * CarRental - class to allocate cars to drivers Licenses
  * 
- * @author b2038092 christopherkerr; c.kerr@ncl.ac.uk
+ * @author christopherkerr;
  * @version 1.0
  */
 public class CarRental {

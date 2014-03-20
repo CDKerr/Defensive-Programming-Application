@@ -9,7 +9,7 @@ import java.util.Map;
 import java.util.Random;
 
 /**
- * @author b2038092 christopherkerr; c.kerr@ncl.ac.uk
+ * @author christopherkerr; 
  * @version 1.0
  */
 public final class RegistrationNumber {

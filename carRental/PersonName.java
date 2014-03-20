@@ -4,7 +4,7 @@
 package carRental;
 
 /**
- * @author b238092 christopherkerr; c.kerr@ncl.ac.uk
+ * @author christopherkerr;
  * @version 1.0
  */
 public final class PersonName {

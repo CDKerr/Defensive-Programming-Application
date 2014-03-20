@@ -7,7 +7,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author b2038092 christopherkerr; c.kerr@ncl.ac.uk	
+ * @author christopherkerr;	
  * @version 1.0
  */
 public abstract class AbstractCar implements Car {

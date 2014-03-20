@@ -10,7 +10,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 /**
- * @author b2038092 christopherkerr; c.kerr@ncl.ac.uk
+ * @author christopherkerr; 
  * @version 1.0
  */
 public class AbstractCarTest {

@@ -17,7 +17,7 @@ import java.util.Date;
 import java.util.GregorianCalendar;
 
 /**
- * @author b2038092 christopherkerr; c.kerr@ncl.ack.uk
+ * @author christopherkerr;
  * @version 1.0
  */
 public class LicenseNumberTest {
